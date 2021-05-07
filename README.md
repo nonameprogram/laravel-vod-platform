@@ -1,3 +1,5 @@
+<img src="https://travis-ci.com/nonameprogram/laravel-vod-platform.svg?token=c9qs1WdpRs2msGipjQpB&branch=main">
+
 # laravel-vod-platform
 
 
