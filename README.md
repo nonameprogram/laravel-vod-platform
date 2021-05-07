@@ -13,5 +13,5 @@ composer global require laravel/installer
 ```
 composer install
 ```
-7. Uruchom projekt poleceniem ```php artisan serve``` (możesz stworzyć plik .bat w folderze projektu oraz skrót)
+7. Uruchom projekt poleceniem ```php artisan serve``` (możesz użyć pliku .bat, który się znajduje w folderze)
 8. Wyświetl strone http://localhost:8000
